@@ -46,7 +46,7 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  background: #303952; este background esta obcuro pero ligero
+  background: #303952;
   z-index: 1;
   opacity: .50;
 }
